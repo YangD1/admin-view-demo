@@ -1,2 +1,2 @@
-# node-admin-demo
+# admin-view-demo
 Try
